@@ -1,6 +1,6 @@
 # Amazon_Price_Tracker
 
-Sure, here's a description for the above program:
+
 
 Title: Amazon Price Tracker Using Web Scraping in Python
 
